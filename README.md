@@ -6,8 +6,13 @@ New york City is a very popular destination for tourists visting the USA. The av
 # DATASET
 The dataset consist of records of airbnb listings in New York City,2019  which can be can be found in https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 
-# AIMS & OBJECTIVE
-Our task includes highlighting the busiest neighborhoods/hosts, explore the trend in room prices for 2019 and investigate the relationship between number of listings and some factors like...
+# OBJECTIVE/RESEARCH QUESTIONS
+Our task includes highlighting the busiest neighborhoods/hosts, explore the trend in room prices for 2019 and investigate the relationship between number of listings and some factors like review, availability days and minimum nights.
+1. Does Manhattan have the highest traffic?
+2. Who are the busiest hosts?
+3. What insights can we get from the room prices, room availability, reviews. 
+
 
 # CONCLUSION
-At the end of our analysis we see that .....none of the home features impacted the properties sale price in this neighborhoods , however the minutes to manhattan bridge of this neighborhoods can be crucial to the sale price based on our regression model.
+At the end of our analysis we see that the location of the properties impacted the rent price. Perhaps, Manhattan is a choice location for toursits, which considerably makes the location more expensive.  Also the busiest hosts have properties across the 5 neighbourhood groups with more readily available rooms. This could be a possible case of abuse of the original intention for the  platform.  
+
